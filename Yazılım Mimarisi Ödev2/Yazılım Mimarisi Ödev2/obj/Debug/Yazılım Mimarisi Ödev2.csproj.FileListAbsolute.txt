@@ -1,0 +1,7 @@
+C:\Users\SERBAY\Desktop\Yazılım Mimarisi Ödev2\Yazılım Mimarisi Ödev2\bin\Debug\Yazılım Mimarisi Ödev2.exe.config
+C:\Users\SERBAY\Desktop\Yazılım Mimarisi Ödev2\Yazılım Mimarisi Ödev2\bin\Debug\Yazılım Mimarisi Ödev2.exe
+C:\Users\SERBAY\Desktop\Yazılım Mimarisi Ödev2\Yazılım Mimarisi Ödev2\bin\Debug\Yazılım Mimarisi Ödev2.pdb
+C:\Users\SERBAY\Desktop\Yazılım Mimarisi Ödev2\Yazılım Mimarisi Ödev2\obj\Debug\Yazılım Mimarisi Ödev2.csprojResolveAssemblyReference.cache
+C:\Users\SERBAY\Desktop\Yazılım Mimarisi Ödev2\Yazılım Mimarisi Ödev2\obj\Debug\Yazılım Mimarisi Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\SERBAY\Desktop\Yazılım Mimarisi Ödev2\Yazılım Mimarisi Ödev2\obj\Debug\Yazılım Mimarisi Ödev2.exe
+C:\Users\SERBAY\Desktop\Yazılım Mimarisi Ödev2\Yazılım Mimarisi Ödev2\obj\Debug\Yazılım Mimarisi Ödev2.pdb
